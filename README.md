@@ -6,16 +6,16 @@
   🚀 Fullstack Lab
 </h4>
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/WallysonGalvao/fullstacklab-mydailystatus">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/VictordaSiIva/MyDailyStatus">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/WallysonGalvao/fullstacklab-mydailystatus">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/VictordaSiIva/MyDailyStatus">
   
   <a href="https://github.com/WallysonGalvao/fullstacklab-mydailystatus/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/WallysonGalvao/fullstacklab-mydailystatus">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/VictordaSiIva/MyDailyStatus">
   </a>
 
-  <a href="https://github.com/WallysonGalvao/fullstacklab-mydailystatus/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/WallysonGalvao/fullstacklab-mydailystatus">
+  <a href="https://github.com/VictordaSiIva/MyDailyStatus/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/VictordaSiIva/MyDailyStatus">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
@@ -78,4 +78,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito com horas em frente ao :computer: por [Wallyson Galvão](https://www.linkedin.com/in/wallyson-galvao/)
+Feito com horas em frente ao :computer: por [Victor da Silva](https://linkedin.com/in/victor-da-silva-a75951138/)
